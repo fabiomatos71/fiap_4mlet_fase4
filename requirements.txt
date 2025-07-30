@@ -1,0 +1,10 @@
+yfinance
+pandas
+matplotlib
+seaborn
+numpy
+pyarrow
+tabulate
+scikit-learn
+tensorflow
+scikeras

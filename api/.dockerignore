@@ -1,0 +1,57 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environment
+env/
+.venv/
+venv/
+ENV/
+
+# Git
+.git/
+.gitignore
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build files
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.swp
+*.swo
+
+# Arquivos de modelo
+*.template
+
+# Arquivos de configuração local
+.env
+.env.*
+!.env.example
+
+# Arquivos de dados grandes
+*.h5
+*.pkl
+*.joblib
+
+# Pasta de modelos (se for grande, considere um volume separado)
+# models/

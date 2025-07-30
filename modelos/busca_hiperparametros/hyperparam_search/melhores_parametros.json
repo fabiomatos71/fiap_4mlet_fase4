@@ -1,0 +1,13 @@
+{
+  "optimizer": "adam",
+  "epochs": 50,
+  "batch_size": 32,
+  "lstm_units": [
+    50,
+    25
+  ],
+  "learning_rate": 0.01,
+  "l2_lambda": 0.0001,
+  "dropout_rate": 0.1,
+  "dense_units": 10
+}
